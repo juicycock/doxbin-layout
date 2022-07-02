@@ -1,0 +1,138 @@
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+ ▄▄▄· .▄▄ · ▄▄▄▄▄▄▄▄    🛸    ▐ ▄  ▄▄▄· ▄• ▄▌▄▄▄▄▄
+▐█ ▀█ ▐█ ▀. •██  ▀▄ █·▪     •█▌▐█▐█ ▀█ █▪██▌•██    👾
+▄█▀▀█ ▄▀▀▀█▄ ▐█.▪▐▀▀▄  ▄█▀▄ ▐█▐▐▌▄█▀▀█ █▌▐█▌ ▐█.▪
+▐█  ▐▌▐█▄▪▐█ ▐█▌·▐█•█▌▐█▌ ▐▌██▐█▌▐█ ▪▐▌▐█▄█▌ ▐█▌·
+ ▀  ▀  ▀▀▀▀  ▀▀▀ .▀  ▀ ▀█▄▀▪▀▀ █▪ ▀  ▀  ▀▀▀  ▀▀▀
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+
+
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 👾 INDEX 👾 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+INVASION
+INFORMATION
+HOME
+PROVIDERS
+FOORPRINT
+SCHOOL
+FAMILY
+ADDITIONAL
+CREDITS
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+
+
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 🛸 INVASION 🛸 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+//PUT AN INTRODUCTORY SUMMARY OF THE PERSON HERE
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+
+
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 👽 INFORMATION 👽 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+NAME:
+GENDER:
+DOB:
+HEIGHT:
+WEIGHT:
+LISCENSE PLATE:
+SSN:
+RELATIONSHIP STATUS:
+{`MUGSHOTS`}
+    1:
+    2:
+    3:
+    4:
+    5:
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+
+
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 👽 HOME 👽 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+STREET:
+CITY:
+STATE:
+ZIP:
+COUNTRY:
+FLOORS:
+ROOMS:
+SQ FT:
+GARAGE:
+RENT:
+MORTGAGE:
+TAXES:
+{`PHOTOS`}
+    1:
+    2:
+    3:
+    4:
+    5:
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+
+
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 👽 PROVIDERS 👽 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+MOBILE PHONE:
+HOME PHONE:
+COMPANY:
+{`INTERNET`}
+    IP:
+    ISP:
+    ORG:
+    DNS:
+    ASN:
+    CITY:
+    ZIP:
+    PROXY:
+    LONGITUDE:
+    LATITUDE:
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+
+
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 👽 FOOTPRINT 👽 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+USERNAMES:
+E-MAILS:
+PASSWORDS:
+{`DISCORD`}
+    DISCRIMINATOR:
+    TOKEN:
+FACEBOOK:
+YOUTUBE
+TWITTER
+INSTAGRAM:
+SNAPCHAT:
+TIKTOK:
+MINECRAFT:
+GITHUB:
+SOLO.TO:
+STEAM:
+TWITCH:
+AMAZON:
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+
+
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 👽 SCHOOL 👽 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+NAME:
+ADDRESS:
+WEBSITE:
+
+[FAMILY]
+//COPY & PASTE FOR MORE FIELDS
+NAME:
+RELATION:
+AGE:
+ADDRESS:
+FACEBOOK:
+E-MAIL:
+PHONE:
+OCCUPATION:
+VOTER REGISTRY:
+ADDITIONAL:
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+
+
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 👽 ADDITIONAL 👽 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+THIS IS WHERE YOU WOULD PUT ANY ADDITIONAL
+INFORMATION ABOUT THE PERSON
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+
+
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎 👽 CREDITS/OUTRO 👽 🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+YEAH THIS IS CREDITS BUT MAKE SURE IT IS FUNNY AND
+FULL OF MEMETASTIC FUN STUFF
+🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎🬎
+                   -astronaut#0069
